@@ -1,1 +1,1 @@
-# SampleApp-MagTraining-UnProtectedLogin
+# MagTraining-UnProtectedLogin
