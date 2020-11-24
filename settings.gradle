@@ -1,2 +1,2 @@
-include ':MagTraining-UnProtectedLogin-App'
+include ':MagTrainingUnProtectedLogin'
 rootProject.name='MagTraining-UnProtectedLogin'
